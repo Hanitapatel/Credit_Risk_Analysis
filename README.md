@@ -11,7 +11,12 @@ By using all the above models we can make recommendation whether they should use
 
 ## Results:
 
-![image]()
+![image](https://github.com/Hanitapatel/Credit_Risk_Analysis/blob/main/Resources/Results.png)
+
+## Summary
+Based on the above results on all six models, using Balanced Random Forest Classifier model can provide more close pridiction for credit risk
+
+
 
 
   
